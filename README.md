@@ -1,5 +1,5 @@
 # Heart-Disease-Classification
-## Predicting whether a patient has heart disease or not
+## Classifying whether a patient has heart disease or not
 
 I have used a standard Heart Disease UCI dataset. The classification is performed using KNN (7 Neighbors), SVM, Decision Tree and MLP.
 
