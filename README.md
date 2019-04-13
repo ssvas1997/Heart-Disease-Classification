@@ -11,4 +11,4 @@ Accuracy in %
 
 ## To view the code and Output
 - Open the heart.ipynb in Desktop Mode (Google Chrome) OR in Jupyter Notebook
-- 
+- Dataset URL: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
